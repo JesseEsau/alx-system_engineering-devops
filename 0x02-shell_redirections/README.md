@@ -1,1 +1,1 @@
-This script creates a file with the content Best School in it
+This script writes into the file ls_cwd_content the result of the command ls -la
