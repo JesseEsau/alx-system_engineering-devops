@@ -1,1 +1,1 @@
-Script that displays the third line of the file iacta
+This script creates a file with the content Best School in it
