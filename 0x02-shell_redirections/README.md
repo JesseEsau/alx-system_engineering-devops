@@ -1,1 +1,1 @@
-Script that displays last 10 lines of /etc/passwd
+This script prints first 10 lines of /etc/passwd
