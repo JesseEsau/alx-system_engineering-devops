@@ -1,1 +1,1 @@
-This script takes a list of words as input and prints words that appear exactly once
+This script displays lines containing the pattern root from the file /etc/passwd
